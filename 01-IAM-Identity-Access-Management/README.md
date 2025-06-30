@@ -123,3 +123,8 @@ Secret Access Key: oierWRhoefWORIOF/DFLWAnljef
 ```
 
 --- 
+
+## 🖼️ IAM Overview Diagram
+
+![IAM Architecture](./IAM.png)
+
